@@ -32,5 +32,13 @@ namespace d02_ex01.Tasks
             State = state;
             return true;
         }
+
+        public override string ToString()
+        {
+            var result = $"- {Title}{Environment.NewLine}" +
+                         $"[{Type}] [{State}]{Environment.NewLine}" +
+                         $"Priority: {Priority}, Due till {DueDate.Date}{Environment.NewLine}{Summary}";
+            return result;
+        }
     }
 }
