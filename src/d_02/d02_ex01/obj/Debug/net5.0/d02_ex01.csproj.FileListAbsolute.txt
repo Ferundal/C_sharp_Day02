@@ -1,0 +1,16 @@
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\bin\Debug\net5.0\d02_ex01.exe
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\bin\Debug\net5.0\d02_ex01.deps.json
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\bin\Debug\net5.0\d02_ex01.runtimeconfig.json
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\bin\Debug\net5.0\d02_ex01.runtimeconfig.dev.json
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\bin\Debug\net5.0\d02_ex01.dll
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\bin\Debug\net5.0\ref\d02_ex01.dll
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\bin\Debug\net5.0\d02_ex01.pdb
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\d02_ex01.csproj.AssemblyReference.cache
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\d02_ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\d02_ex01.AssemblyInfoInputs.cache
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\d02_ex01.AssemblyInfo.cs
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\d02_ex01.csproj.CoreCompileInputs.cache
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\d02_ex01.dll
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\ref\d02_ex01.dll
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\d02_ex01.pdb
+C:\Users\ferun\RiderProjects\C_sharp\C_sharp_Day02-0\src\d_02\d02_ex01\obj\Debug\net5.0\d02_ex01.genruntimeconfig.cache
