@@ -37,7 +37,11 @@ namespace d02_ex01.Tasks
         {
             var result = $"- {Title}{Environment.NewLine}" +
                          $"[{Type}] [{State}]{Environment.NewLine}" +
-                         $"Priority: {Priority}, Due till {DueDate.Date}{Environment.NewLine}{Summary}";
+                         $"Priority: {Priority}";
+            if (DueDate != default)
+                result += $", Due till {DueDate.Date}";
+            if (!String.IsNullOrEmpty(Summary))
+                result += $"{Environment.NewLine}{Summary}";
             return result;
         }
     }

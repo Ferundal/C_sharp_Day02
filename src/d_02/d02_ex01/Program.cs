@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
+using System.Globalization;
 using d02_ex01;
 using d02_ex01.Tasks;
 using Microsoft.VisualBasic;
@@ -45,8 +47,6 @@ while (isActive)
             Console.WriteLine("Input error. Check the input data and repeat the request.");
             break;
     }
-    if (!ReadNewTaskValues())
-        InputError();
 }
 
 bool ReadNewTaskValues()

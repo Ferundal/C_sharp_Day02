@@ -2,8 +2,8 @@
 {
     public enum TaskPriority
     {
-        Low,
+        Low = -1,
         Normal = 0,
-        High
+        High = 1
     }
 }
